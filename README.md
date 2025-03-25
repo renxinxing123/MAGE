@@ -9,7 +9,7 @@ Given a Simulink-style simulation diagram as input (image format), SAGE produces
 
 ## 🧩 Concept Diagram
 
-![Concept Diagram](link-to-image-or-path-in-repo)
+![Concept Diagram](SAGE.jpeg)
 
 ### System Overview
 
@@ -21,9 +21,10 @@ The system includes the following components:
 
 ## 📺 Demo Videos
 
-- [Demo 1: Generating a basic bouncing ball simulation](link-to-video-1)
-- [Demo 2: Debugging a faulty block connection](link-to-video-2)
-- [Demo 3: End-to-end pipeline demo](link-to-video-3)
+- [Demo 1: Generating a two-bus electrical system using 4.5 for the Investigator and o3_mini for the other agents.](SAGE_demo_two_bus_electrical_system_4_5.mp4)
+- [Demo 2: Generating a two-bus electrical system using 4o for the Investigator and o3_mini for the other agents.](SAGE_demo_two_bus_electrical_system_4o.mp4)
+- [Demo 3: Generating a bouncing_ball simulation using 4.5 for the Investigator and o3_mini for the other agents.](SAGE_demo_two_bus_bouncing_ball.mp4)
+- [Demo 4: Generating a simulink_model using 4.5 for the Investigator and o3_mini for the other agents.](SAGE_demo_simulink_model.mp4)
 
 
 
