@@ -21,10 +21,10 @@ The system includes the following components:
 
 ## 📺 Demo Videos
 
-- [Demo 1: Generating a two-bus electrical system using 4.5 for the Investigator and o3_mini for the other agents.](SAGE_demo_two_bus_electrical_system_4_5.mp4)
-- [Demo 2: Generating a two-bus electrical system using 4o for the Investigator and o3_mini for the other agents.](SAGE_demo_two_bus_electrical_system_4o.mp4)
-- [Demo 3: Generating a bouncing_ball simulation using 4.5 for the Investigator and o3_mini for the other agents.](SAGE_demo_two_bus_bouncing_ball.mp4)
-- [Demo 4: Generating a simulink_model using 4.5 for the Investigator and o3_mini for the other agents.](SAGE_demo_simulink_model.mp4)
+- [Demo 1: Generating a two-bus electrical system using 4.5 for the Investigator and o3_mini for the other agents.](https://img.youtube.com/vi/Yiw5EadBGr8/hqdefault.jpg)](https://www.youtube.com/watch?v=Yiw5EadBGr8)
+- [Demo 2: Generating a two-bus electrical system using 4o for the Investigator and o3_mini for the other agents.](https://img.youtube.com/vi/IHuWqQ9KoP8/hqdefault.jpg)](https://www.youtube.com/watch?v=IHuWqQ9KoP8)
+- [Demo 3: Generating a bouncing_ball simulation using 4.5 for the Investigator and o3_mini for the other agents.](https://img.youtube.com/vi/GVw-UjMbsmY/hqdefault.jpg)](https://www.youtube.com/watch?v=GVw-UjMbsmY)
+- [Demo 4: Generating a simulink_model using 4.5 for the Investigator and o3_mini for the other agents.](https://img.youtube.com/vi/fQMi2-wPrc4/hqdefault.jpg)](https://www.youtube.com/watch?v=fQMi2-wPrc4)
 
 
 
