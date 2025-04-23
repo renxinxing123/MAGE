@@ -1,6 +1,6 @@
 # MAGE：Multi-modal Agentic Data Generation Pipeline for Cross-domain Simulation Construction
 
-![Concept Diagram](MAGE.png)
+![Concept Diagram](MAGE_.png)
 
 MAGE is a multi-agent pipeline that generates Simulink simulation code from input diagrams using large language models, multimodal perception, and modular agentic workflows.
 
